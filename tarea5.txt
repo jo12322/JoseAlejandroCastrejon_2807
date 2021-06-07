@@ -1,0 +1,10 @@
+﻿Investigar la definición de “organización” enfocado a Organización y administración de centro de cómputo.
+Generar una definición propia y enriquecerlo con un ejemplo.
+
+
+Definición: básicamente es el conjunto de requerimientos físicos,lógicos y humanos que se conjugan para realizar el procesamiento de información con un sistema  de administración por medio de equipos de cómputo conectados a una red.   
+
+
+Propia definición:Es la planificación,elaboración y aplicación de de una estructura de equipos de cómputo conectados a una red la cual determina las jerarquías necesarias y agrupaciones de actividades,con el fin de simplificar las mismas y sus funciones dentro del grupo social.  
+ 
+Un ejemplo es cuando en un trabajo se tiene que custodiar y procesar la mayoría de la información con la que opera una organización  en donde cada empleado tiene asignada una tarea específica.
